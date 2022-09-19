@@ -24,8 +24,8 @@ const respostas = [
   'As perspectivas não são tão boas.',
   'Sim.',
   'Concentre-se e pergunte novamente.',
-  'Sinais apotam que sim.'
-  'Olha, é complicado.'
+  'Sinais apotam que sim.',
+  'Olha, é complicado.',
   'É melhor que você nem saiba!'
 ]
 
