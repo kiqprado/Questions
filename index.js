@@ -26,7 +26,7 @@ const respostas = [
   'Concentre-se e pergunte novamente.',
   'Sinais apotam que sim.',
   'Olha, é complicado.',
-  'É melhor que você nem saiba!'
+  'É melhor que você nem saiba!',
 ]
 
 //clique em fazer pergunta
